@@ -1,0 +1,9 @@
+zone_id,zone_name,latitude,longitude,demand_share
+Z01,Central Chennai,13.0827,80.2707,210
+Z02,Anna Nagar - Ambattur,13.0990,80.1820,165
+Z03,Guindy - Saidapet,13.0150,80.2200,195
+Z04,Adyar - Velachery,12.9900,80.2370,205
+Z05,OMR - Perungudi,12.9550,80.2360,220
+Z06,Sholinganallur - Navalur,12.8900,80.2280,215
+Z07,Porur - Poonamallee,13.0400,80.1350,145
+Z08,Tambaram - Chromepet,12.9380,80.1230,175
